@@ -6,6 +6,7 @@ import (
 
 func main() {
 	fmt.Println("Hello World")
+	fmt.Println(Multiply(20, 30))
 }
 
 // AnotherMethod : returns the sum of two parameters
